@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/ln-141/Documents/GenericRecyclerAdapter/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/home/ln-141/Documents/GenericRecyclerAdapter/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.1.1_5069735d4d56464348dee2a93204bf9d3d903221.jar" />
+    </item>
+    <item
+        jar="/home/ln-141/Documents/GenericRecyclerAdapter/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="/home/ln-141/Documents/GenericRecyclerAdapter/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.1.1_098635c37432ccf241888cffb23e03b9cc4eedea.jar" />
+    </item>
+    <item
+        jar="/home/ln-141/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.1.1/3af19f153122737b372622fa6c81dd11a1c6b999/support-annotations-24.1.1.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/home/ln-141/Documents/GenericRecyclerAdapter/app/build/intermediates/pre-dexed/debug/support-annotations-24.1.1_5646c0d8b4666957bf57390bbb2bc5ac9d694651.jar" />
+    </item>
+    <item
+        jar="/home/ln-141/Documents/GenericRecyclerAdapter/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/home/ln-141/Documents/GenericRecyclerAdapter/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.1.1_f8e7ecab7c1deffe823328350921ea47e54ef596.jar" />
+    </item>
+    <item
+        jar="/home/ln-141/Documents/GenericRecyclerAdapter/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/home/ln-141/Documents/GenericRecyclerAdapter/app/build/intermediates/pre-dexed/debug/internal_impl-24.1.1_c1e3029b3622610172efc8fd4024ec68efba7850.jar" />
+    </item>
+    <item
+        jar="/home/ln-141/Documents/GenericRecyclerAdapter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/home/ln-141/Documents/GenericRecyclerAdapter/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.1.1_792623aec6a3c49962b2aa57667969f896f0838c.jar" />
+    </item>
+    <item
+        jar="/home/ln-141/Documents/GenericRecyclerAdapter/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/home/ln-141/Documents/GenericRecyclerAdapter/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.1.1_5f4446a7fe4911fde18bb9b3c5c41869aac0220f.jar" />
+    </item>
+    <item
+        jar="/home/ln-141/Documents/GenericRecyclerAdapter/app/build/intermediates/exploded-aar/com.android.support/design/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="/home/ln-141/Documents/GenericRecyclerAdapter/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.1.1_56c1e7916632f20d09638c67ae4f040029b17244.jar" />
+    </item>
+
+</items>
