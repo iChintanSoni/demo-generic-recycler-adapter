@@ -86,4 +86,12 @@ public abstract class AbstractRecyclerAdapter<T, VH extends RecyclerView.ViewHol
         mList = items;
         notifyDataSetChanged();
     }
+
+    /**
+     * @param mListItems: adding more items in existing list
+     */
+    public void addItems(List<T> mListItems) {
+        mList.addAll(mListItems);
+        notifyDataSetChanged();
+    }
 }
